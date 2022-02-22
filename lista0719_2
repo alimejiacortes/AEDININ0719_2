@@ -3,3 +3,4 @@
 
 //Los nombres se tienen que agregar empezando por apellido. 
 Debug.Log(Mejia Cortés Ali);
+Debug.Log(De la Pena Roberto);
