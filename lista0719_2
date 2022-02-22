@@ -1,3 +1,5 @@
 //Mi primer archivo de este repositorio
 //aquí cada quién introducirá su nombre a través de la función Debug.Log();
-Debug.Log("ali Mejía cortés);
+
+//Los nombres se tienen que agregar empezando por apellido. 
+Debug.Log(Mejia Cortés Ali);
