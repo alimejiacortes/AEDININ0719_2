@@ -2,5 +2,6 @@
 //aquí cada quién introducirá su nombre a través de la función Debug.Log();
 
 //Los nombres se tienen que agregar empezando por apellido. 
-Debug.Log(Mejia Cortés Ali);
-Debug.Log(De la Pena Roberto);
+Debug.Log("Mejia Cortés Ali");
+Debug.Log("De la Pena Roberto");
+Debug.Log("Barraza Mejía Carlos");
